@@ -5,9 +5,8 @@
 Head Chefs, website with:
 - Email Request's
 - About us
-- Dishes, desserts, contact, home pg & links
-- Comments, 
-- File cache
+- Comments,
+- Reviews and answering to reviews
 
 
 ### Development tools

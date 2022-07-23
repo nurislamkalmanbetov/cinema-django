@@ -7,6 +7,7 @@ Head Chefs, website with:
 - About us
 - Comments,
 - Reviews and answering to reviews
+- reCAPTCHA v3
 
 
 ### Development tools

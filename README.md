@@ -8,6 +8,7 @@ Head Chefs, website with:
 - Comments,
 - Reviews and answering to reviews
 - reCAPTCHA v3
+- RestAPI
 
 
 ### Development tools
